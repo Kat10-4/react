@@ -10,6 +10,7 @@ export const Post =()=>{
             <h2>Develop/popup branch commit 2</h2>
             <h2>Develop/login branch commit 3</h2>
             <h2>Develop/login branch commit 4</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, pariatur?</p>
         </div>
     )
 }
