@@ -7,6 +7,7 @@ export const Post =()=>{
             <h2>Dev branch commit 2</h2>
             <h2>Dev branch commit 3</h2>
             <h2>Develop/login branch commit 3</h2>
+            <h2>Develop/login branch commit 4</h2>
         </div>
     )
 }
